@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halla 👋
 
 Mitt navn er My og er jeg er en ferdig utdannet utvikler som er på leting etter en jobb
 
