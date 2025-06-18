@@ -4,7 +4,11 @@ Mitt navn er My og er jeg er en ferdig utdannet utvikler som er på leting etter
 
 - 🔭 Akkuart nå holder jeg på med små prosjekter som portfolio, todo-list, osv.
 - 🌱 Holder på å lære meg React
-- 🤔 Fremtidige prosjekter: nettside som viser alle butikker som selger slush, noe autentiserings app, blog, og noe litt mer spesielt
+- 🤔 Fremtidige prosjekter:
+  - nettside som viser alle butikker som selger slush
+  - noe autentiserings app
+  - blog
+  - og noe litt mer spesielt av personlig interesse
 
 <!--
 **MyDuon/MyDuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
