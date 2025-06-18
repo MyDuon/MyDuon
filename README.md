@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+Mitt navn er My og er jeg er en ferdig utdannet utvikler som er på leting etter en jobb
+
+- 🔭 Akkuart nå holder jeg på med små prosjekter som portfolio, todo-list, osv.
+- 🌱 Holder på å lære meg React
+- 🤔 Fremtidige prosjekter: nettside som viser alle butikker som selger slush, noe autentiserings app, blog, og noe litt mer spesielt
 
 <!--
 **MyDuon/MyDuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
