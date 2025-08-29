@@ -1,9 +1,9 @@
 ## Halla 👋
 
-Mitt navn er My og er jeg er en ferdig utdannet utvikler som er på leting etter en jobb
+Mitt navn er My og er jeg er en ferdig utdannet utvikler som tar en master i informatikk nå. Er på leting etter en sommerjobb eller fulltidsjobb!
 
-- 🔭 Akkuart nå holder jeg på med små prosjekter som portfolio, todo-list, osv.
-- 🌱 Holder på å lære meg React
+- 🔭 Akkurat nå holder jeg på med å lære meg MERN-stack ved hjelp av projekter
+- 🌱 Holder på å lære meg Typecript som brukes i MERN-stacken
 - 🤔 Fremtidige prosjekter:
   - nettside som viser alle butikker som selger slush
   - noe autentiserings app
