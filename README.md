@@ -7,7 +7,6 @@ Mitt navn er My og er jeg er en ferdig utdannet utvikler som tar en master i inf
 - 🤔 Fremtidige prosjekter:
   - nettside som viser alle butikker som selger slush
   - noe autentiserings app
-  - blog
   - og noe litt mer spesielt av personlig interesse
 
 <!--
