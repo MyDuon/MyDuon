@@ -2,7 +2,7 @@
 
 Mitt navn er My og er jeg er en ferdig utdannet utvikler som tar en master i informatikk nå. Er på leting etter en sommerjobb eller fulltidsjobb!
 
-Sjekk ut porteføljen min her [portefølje](https://victorious-tree-0a89db703.5.azurestaticapps.net/)
+Sjekk ut porteføljen min her [portefølje](https://zealous-desert-0f5cf8903.6.azurestaticapps.net/)
 
 - 🔭 Akkurat nå holder jeg på med å lære meg MERN-stack ved hjelp av projekter
 - 🌱 Holder på å lære meg Typecript som brukes i MERN-stacken
